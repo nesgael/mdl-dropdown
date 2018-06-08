@@ -1,1 +1,1 @@
-A very simple dropdown plugin for MDL.
+A very simple dropdown element for MDL.
